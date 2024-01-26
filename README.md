@@ -1,3 +1,3 @@
 # Analog-Clock
-Clock using pure javascript
+Clock using pure javascript  <br>
 Author-Somama Siddiqui
